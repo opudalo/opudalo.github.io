@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pixyll</title>
+    <description>A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.</description>
+    <link>http://pixyll.com/</link>
+    <atom:link href="http://pixyll.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Залік</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;Умови&lt;/h2&gt;
+
+&lt;p&gt;Є 6 завдань, кожне наступне важче за попереднє.&lt;br /&gt;
+Якщо робили щось семестр - на перші 4 ви витратите пів години. На останні три - ще по годині на кожне.&lt;br /&gt;
+Оцінка на заліку - ваші листи протягом семестру, плюс завдання за залік.&lt;/p&gt;
+
+&lt;p&gt;До ночі Четверга (18 грудня, 23:59) зробіть максимум із них і відправте мені листа на пошту e.chechurin@gmail.com із темою “Залік”.&lt;br /&gt;
+Кожне із завдань - окремий лінк на jsbin.  &lt;/p&gt;
+
+&lt;p&gt;До зустрічі в п”ятницю на лекції.  &lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;Завдання&lt;/h2&gt;
+
+&lt;p&gt;Як що працює легко зрозуміти із гіфки. В складних випадках додав лінк з відео.&lt;br /&gt;
+Якщо вам щось не зрозуміло - робіть на свій розсуд.&lt;br /&gt;
+Зовнішній вигляд повторювати один в один не обов”язково.  &lt;/p&gt;
+
+&lt;p&gt;1.&lt;strong&gt;Cnopka&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;На сторінці кнопка. Кожен клік на кнопку збільшує лічильник.&lt;br /&gt;
+&lt;img src=&quot;http://g.recordit.co/JlVqg2wjm7.gif&quot; alt=&quot;Click-clock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2.&lt;strong&gt;Colorit&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;На сторінці блок, що плавно міняє колір. Користувач нічого не робить - блок сам. :) &lt;br /&gt;
+Від чорного, до червоного, від червоного до жовтого, від жовтого до білого. Вибір кольорів залишаю за вами.&lt;br /&gt;
+&lt;img src=&quot;http://g.recordit.co/ymPfQs8SES.gif&quot; alt=&quot;Clock-color&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;3.&lt;strong&gt;Keep calm and follow the white rabbit&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;На сторінці блок. Користувач водить мишу - блок переслідує курсор.&lt;br /&gt;
+&lt;img src=&quot;http://g.recordit.co/z462cdhyXS.gif&quot; alt=&quot;Color-rabbit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;4.&lt;strong&gt;WOW, that’s HTML Editor&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Редактор тексту, що підтримує HTML.&lt;br /&gt;
+Зліва пишеш - на правому боці результат.&lt;br /&gt;
+&lt;img src=&quot;http://g.recordit.co/X796Daa4rU.gif&quot; alt=&quot;html&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;5.&lt;strong&gt;*****&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Віджет із зірочками. Користувач наклікує рейтинг.&lt;br /&gt;
+Для деяких значень рейтингу є словесні назви.&lt;br /&gt;
+&lt;img src=&quot;http://g.recordit.co/dQATJ8W0wW.gif&quot; alt=&quot;stars&quot; /&gt;
+Чи відос: http://screencast.com/t/HHCvHwbU&lt;/p&gt;
+
+&lt;p&gt;6.&lt;strong&gt;Select, listen, add, remove, toggle, show, hide..&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Вам потрібно написати власний фреймворк для роботи із DOM.&lt;br /&gt;
+Не намагайтеся одразу охопити все - реалізуйте базову функціональність.&lt;br /&gt;
+Вибір елементів, додати клас, видалити клас, управління атрибутами і все таке.&lt;br /&gt;
+Головне сфокусуйтеся на реалізації каркасу.&lt;br /&gt;
+Функціональну реалізацію методів можна брати вже реалізовану із існуючого коду/фреймворку.  &lt;/p&gt;
+
+&lt;p&gt;Оп, хтось до вас вже написав фреймворк.&lt;br /&gt;
+https://github.com/ctult/TinyDOM&lt;br /&gt;
+http://zeptojs.com/&lt;br /&gt;
+http://jquery.com/&lt;br /&gt;
+http://dojotoolkit.org/  &lt;/p&gt;
+
+&lt;p&gt;7.&lt;strong&gt;Два монро (hard-core)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;На сторінці будь-який текст. По даблкліку в тексті показується картка. Контент картки приходить з сервера, але ви можете взяти довільний і викорстати один і той самий для усіх карток.&lt;br /&gt;
+Залежно від того де клікнули - картка буде зі стрілкою знизу, або зверху.&lt;br /&gt;
+Позиція стрілки міняється залежно від місця кліку (стрілка вказує на середину виділеного слова).&lt;br /&gt;
+Враховуйте скрол сторінки.&lt;br /&gt;
+Ширина та висота самого картки кастомні і можуть змінюватися в залежності від контенту.&lt;br /&gt;
+&lt;img src=&quot;http://g.recordit.co/pihcXKXCJ2.gif&quot; alt=&quot;Rabbit-habbit&quot; /&gt;
+От ще відос, якщо не зрозуміло.&lt;br /&gt;
+http://screencast.com/t/A60dh9Ky&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 16 Dec 2014 00:00:00 +0200</pubDate>
+        <link>http://pixyll.com/2014/12/16/web-design/</link>
+        <guid isPermaLink="true">http://pixyll.com/2014/12/16/web-design/</guid>
+      </item>
+    
+  </channel>
+</rss>
