@@ -28,31 +28,32 @@
 &lt;p&gt;1.&lt;strong&gt;Cnopka&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;На сторінці кнопка. Кожен клік на кнопку збільшує лічильник.&lt;br /&gt;
-&lt;img src=&quot;/images/1.gif&quot; alt=&quot;Click-clock&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/1.gif&quot; alt=&quot;Click-clock&quot; /&gt;  &lt;/p&gt;
 
 &lt;p&gt;2.&lt;strong&gt;Colorit&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;На сторінці блок, що плавно міняє колір. Користувач нічого не робить - блок сам. :) &lt;br /&gt;
 Від чорного, до червоного, від червоного до жовтого, від жовтого до білого. Вибір кольорів залишаю за вами.&lt;br /&gt;
-&lt;img src=&quot;/images/2.gif&quot; alt=&quot;Clock-color&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/2.gif&quot; alt=&quot;Clock-color&quot; /&gt;  &lt;/p&gt;
 
 &lt;p&gt;3.&lt;strong&gt;Keep calm and follow the white rabbit&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;На сторінці блок. Користувач водить мишу - блок переслідує курсор.&lt;br /&gt;
-&lt;img src=&quot;/images/3.gif&quot; alt=&quot;Color-rabbit&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/3.gif&quot; alt=&quot;Color-rabbit&quot; /&gt;  &lt;/p&gt;
 
 &lt;p&gt;4.&lt;strong&gt;WOW, that’s HTML Editor&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Редактор тексту, що підтримує HTML.&lt;br /&gt;
 Зліва пишеш - на правому боці результат.&lt;br /&gt;
-&lt;img src=&quot;/images/4.gif&quot; alt=&quot;html&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/4.gif&quot; alt=&quot;html&quot; /&gt;  &lt;/p&gt;
 
 &lt;p&gt;5.&lt;strong&gt;*****&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Віджет із зірочками. Користувач наклікує рейтинг.&lt;br /&gt;
 Для деяких значень рейтингу є словесні назви.&lt;br /&gt;
-&lt;img src=&quot;/images/5.gif&quot; alt=&quot;stars&quot; /&gt;
-Чи відос: http://screencast.com/t/HHCvHwbU&lt;/p&gt;
+&lt;img src=&quot;/images/5.gif&quot; alt=&quot;stars&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Чи &lt;a href=&quot;http://screencast.com/t/HHCvHwbU&quot;&gt;відос&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;6.&lt;strong&gt;Select, listen, add, remove, toggle, show, hide..&lt;/strong&gt;&lt;/p&gt;
 
@@ -63,21 +64,16 @@
 Функціональну реалізацію методів можна брати вже реалізовану із існуючого коду/фреймворку.  &lt;/p&gt;
 
 &lt;p&gt;Оп, хтось до вас вже написав фреймворк.&lt;br /&gt;
-https://github.com/ctult/TinyDOM&lt;br /&gt;
-http://zeptojs.com/&lt;br /&gt;
-http://jquery.com/&lt;br /&gt;
-http://dojotoolkit.org/  &lt;/p&gt;
+&lt;a href=&quot;https://github.com/ctult/TinyDOM&quot;&gt;TinyDOM&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://zeptojs.com/&quot;&gt;zepto&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://jquery.com/&quot;&gt;jQuery&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://dojotoolkit.org/&quot;&gt;dojo&lt;/a&gt;  &lt;/p&gt;
 
 &lt;p&gt;7.&lt;strong&gt;Два монро (hard-core)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;На сторінці будь-який текст. По даблкліку в тексті показується картка. Контент картки приходить з сервера, але ви можете взяти довільний і викорстати один і той самий для усіх карток.&lt;br /&gt;
-Залежно від того де клікнули - картка буде зі стрілкою знизу, або зверху.&lt;br /&gt;
-Позиція стрілки міняється залежно від місця кліку (стрілка вказує на середину виділеного слова).&lt;br /&gt;
-Враховуйте скрол сторінки.&lt;br /&gt;
-Ширина та висота самого картки кастомні і можуть змінюватися в залежності від контенту.&lt;br /&gt;
-&lt;img src=&quot;/images/7.gif&quot; alt=&quot;Rabbit-habbit&quot; /&gt;
-От ще відос, якщо не зрозуміло.&lt;br /&gt;
-http://screencast.com/t/A60dh9Ky&lt;/p&gt;
+&lt;p&gt;На сторінці будь-який текст. По даблкліку в тексті показується картка. Контент картки приходить з сервера, але ви можете взяти довільний і викорстати один і той самий для усіх карток. Залежно від того де клікнули - картка буде зі стрілкою знизу, або зверху. Позиція стрілки міняється залежно від місця кліку (стрілка вказує на середину виділеного слова). Враховуйте скрол сторінки. Ширина та висота самого картки кастомні і можуть змінюватися в залежності від контенту.&lt;br /&gt;
+&lt;img src=&quot;/images/7.gif&quot; alt=&quot;Rabbit-habbit&quot; /&gt;&lt;br /&gt;
+От ще &lt;a href=&quot;http://screencast.com/t/A60dh9Ky&quot;&gt;відос&lt;/a&gt;, якщо не зрозуміло.  &lt;/p&gt;
 
 </description>
         <pubDate>Tue, 16 Dec 2014 00:00:00 +0200</pubDate>
