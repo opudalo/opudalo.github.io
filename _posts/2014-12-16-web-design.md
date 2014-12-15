@@ -24,30 +24,30 @@ date:       2014-12-16
 1.**Cnopka**
 
 На сторінці кнопка. Кожен клік на кнопку збільшує лічильник.  
-![Click-clock](http://g.recordit.co/JlVqg2wjm7.gif)
+![Click-clock](/images/1.gif)
 
 2.**Colorit**
 
 На сторінці блок, що плавно міняє колір. Користувач нічого не робить - блок сам. :)   
 Від чорного, до червоного, від червоного до жовтого, від жовтого до білого. Вибір кольорів залишаю за вами.  
-![Clock-color](http://g.recordit.co/ymPfQs8SES.gif)
+![Clock-color](/images/2.gif)
 
 3.**Keep calm and follow the white rabbit**
 
 На сторінці блок. Користувач водить мишу - блок переслідує курсор.  
-![Color-rabbit](http://g.recordit.co/z462cdhyXS.gif)
+![Color-rabbit](/images/3.gif)
 
 4.**WOW, that's HTML Editor**
 
 Редактор тексту, що підтримує HTML.  
 Зліва пишеш - на правому боці результат.  
-![html](http://g.recordit.co/X796Daa4rU.gif)
+![html](/images/4.gif)
 
 5.__*****__
 
 Віджет із зірочками. Користувач наклікує рейтинг.  
 Для деяких значень рейтингу є словесні назви.  
-![stars](http://g.recordit.co/dQATJ8W0wW.gif)
+![stars](/images/5.gif)
 Чи відос: http://screencast.com/t/HHCvHwbU
 
 6.**Select, listen, add, remove, toggle, show, hide..**
@@ -71,7 +71,7 @@ http://dojotoolkit.org/
 Позиція стрілки міняється залежно від місця кліку (стрілка вказує на середину виділеного слова).  
 Враховуйте скрол сторінки.  
 Ширина та висота самого картки кастомні і можуть змінюватися в залежності від контенту.  
-![Rabbit-habbit](http://g.recordit.co/pihcXKXCJ2.gif)
+![Rabbit-habbit](/images/7.gif)
 От ще відос, якщо не зрозуміло.  
 http://screencast.com/t/A60dh9Ky
 
